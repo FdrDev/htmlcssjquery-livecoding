@@ -1,0 +1,18 @@
+#circle{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: orange;
+  display:flex;
+  justify-content: center;
+  align-content: center;
+}
+
+
+#magic{
+  display: flex;
+  align-self: center;
+  width: 50%;
+  height:50%;
+  border-radius: 50%;
+}
